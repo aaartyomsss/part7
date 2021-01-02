@@ -1,0 +1,6 @@
+PATCH http://localhost:3001/api/blogs/5ff06ab33b5ddd44d696522e/comments
+Content-Type: application/json
+
+{
+    "comment": "testing functionality"
+}

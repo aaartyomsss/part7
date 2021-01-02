@@ -1,0 +1,29 @@
+.page-header {
+  border: 1px solid black;
+}
+
+.login-form {
+  border: 1px solid black;
+  border-radius: 2em;
+  margin: 2em 0;
+  padding-top: 2em;
+}
+
+.logout-card {
+  margin: 2em 0;
+}
+
+.toggable {
+  border: 1px solid black;
+  border-radius: 1em;
+  padding: 2em 0;
+}
+
+.toggable-btn {
+  margin-left: 8.5em
+}
+
+.heading {
+  margin-left: 1em
+}
+

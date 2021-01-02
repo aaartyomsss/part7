@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "feef",
+      "id": 3
+    },
+    {
+      "content": "mita",
+      "id": 4
+    },
+    {
+      "content": "idk what is going on",
+      "id": 5
+    },
+    {
+      "content": "ez",
+      "id": 6
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Arto Savin",
+      "number": "565578905",
+      "id": 2
+    }
+  ]
+}

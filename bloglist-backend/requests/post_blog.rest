@@ -1,0 +1,10 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFydGpvbSIsImlkIjoiNWZlZDkzZGY4ZGNlZDkzNzE0YTE2YzUzIiwiaWF0IjoxNjA5NTkxNDU1fQ.QklMMe8yJPyDVf4-mTrenEUxpnL-LL1Ko1Bug8zT4oQ
+    
+{
+    "author": "Random dude",
+    "title": "Last Post, honestly",
+    "url": "absent",
+    "user": "5fecb6d3046f492dc97dd2f5"
+}
